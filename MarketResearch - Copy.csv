@@ -1,0 +1,107 @@
+﻿ID,Have you ever used grocery delivery?,"What gender do you identify as?
+",How old are you?,Are you currently enrolled as a student in an educational institute? ,Which area of Berlin do you live in?,How often do you order grocery deliveries a month?,What days do you usually get deliveries?,What time of day do you usually order deliveries?,Which sameday delivery service do you use the most?,How willing are you to order late night deliveries,How often would you use late night deliveries in a month?,As an estimate how much would you spend on a late night delivery for a single order?,How long would you find acceptable to wait for a late night delivery?,What do you get delivered late at night?,"If you were at a social gathering and ran out of drinks, how likely would you be to order a delivery of drinks (5 is very likely)",Choose your favorite offer below, Rate the following statement from 1 (not applicable) to 5 (very true): I have been waiting a long time for a late time delivery service,Rate the following statement from 1 (not applicable) to 5 (very true): I often experience a need to have groceries delivered after 21,"Rate the following statement from 1 (not applicable) to 5 (very true): I would prefer to have groceries delivered, as opposed to going out at night"
+1,Yes,Male,26,Yes,Region B,4,Weekends ( Fri-Sunday),Evening (17-21),Gorillas,4,10,25,20 min,Alcoholic beverages,4,"15 min delivery time, fee 5€, minimum Order 10€ ",4,4,5
+2,Yes,Male,21,No,Region B,1,Weekdays (Mon-Thursday),Evening (17-21),Getir,2,4,50,60 min,"Snacks (Chocolate, chips and so on)",5,"30 min delivery time, fee 4€, minimum Order 15€",4,4,4
+3,Yes,Female,23,Yes,Region C,4,Weekends ( Fri-Sunday),Night (21-4),Others,5,7,2,60 min,"Snacks (Chocolate, chips and so on)",5,"60 min delivery time, fee 3€, minimum Order 20€",5,5,5
+4,Yes,Female,35,Yes,Region B,1,Weekends ( Fri-Sunday),Evening (17-21),Flink,5,1,10,30 min,Alcoholic beverages,5,"15 min delivery time, fee 5€, minimum Order 10€ ",4,3,5
+5,Yes,Female,22,Yes,Region A,4,Weekends ( Fri-Sunday),Night (21-4),Amazon fresh,5,3,50,30 min,"Snacks (Chocolate, chips and so on)",4,"30 min delivery time, fee 4€, minimum Order 15€",2,4,5
+6,Yes,Female,22,Yes,Region A,2,Weekends ( Fri-Sunday),Evening (17-21),Getir,5,4,20,30 min,"Snacks (Chocolate, chips and so on)",5,"30 min delivery time, fee 4€, minimum Order 15€",5,4,5
+7,Yes,Female,22,Yes,Region B,2,Weekdays (Mon-Thursday),Morning (5-12),Amazon fresh,4,1,2,30 min,Produce (Vegetable or fruits),3,"60 min delivery time, fee 3€, minimum Order 20€",3,3,2
+8,Yes,Female,21,Yes,Region A,2,Weekdays (Mon-Thursday),Day (12-17,Getir,5,5,4,30 min,"Snacks (Chocolate, chips and so on)",5,"60 min delivery time, fee 3€, minimum Order 20€",5,5,5
+9,Yes,Female,22,Yes,Region A,4,Weekdays (Mon-Thursday),Day (12-17,Getir,3,2,30,30 min,"Snacks (Chocolate, chips and so on)",4,"30 min delivery time, fee 4€, minimum Order 15€",4,3,4
+10,Yes,Male,24,Yes,Region B,4,Weekdays (Mon-Thursday),Day (12-17,Getir,5,4,4,30 min,Personal care (Soaps creams),3,"30 min delivery time, fee 4€, minimum Order 15€",4,3,5
+11,Yes,Male,24,Yes,Region B,3,Weekends ( Fri-Sunday),Day (12-17,Flink,5,5,2,30 min,Personal care (Soaps creams),4,"30 min delivery time, fee 4€, minimum Order 15€",4,4,4
+12,Yes,Male,22,Yes,Region B,2,Weekends ( Fri-Sunday),Evening (17-21),Others,3,1,10,30 min,"Snacks (Chocolate, chips and so on)",3,"15 min delivery time, fee 5€, minimum Order 10€ ",3,3,3
+13,Yes,Female,22,Yes,Region C,7,Weekends ( Fri-Sunday),Evening (17-21),Getir,5,2,25,30 min,Alcoholic beverages,4,"30 min delivery time, fee 4€, minimum Order 15€",3,3,3
+14,Yes,Female,22,Yes,Region B,3,Weekends ( Fri-Sunday),Night (21-4),Getir,5,3,17,15 min,"Snacks (Chocolate, chips and so on)",5,"15 min delivery time, fee 5€, minimum Order 10€ ",1,5,5
+15,Yes,Male,25,Yes,Region B,8,Weekends ( Fri-Sunday),Night (21-4),Flink,5,5,30,20 min,"Snacks (Chocolate, chips and so on)",4,"15 min delivery time, fee 5€, minimum Order 10€ ",2,4,5
+16,Yes,Female,21,Yes,Region A,3,Weekdays (Mon-Thursday),Day (12-17,Gorillas,5,3,20,30 min,"Snacks (Chocolate, chips and so on)",4,"60 min delivery time, fee 3€, minimum Order 20€",4,4,3
+17,Yes,Female,22,Yes,Region C,1,Weekdays (Mon-Thursday),Evening (17-21),Flink,2,0,20,15 min,"Snacks (Chocolate, chips and so on)",3,"15 min delivery time, fee 5€, minimum Order 10€ ",4,3,3
+18,Yes,Female,23,Yes,Region A,3,Weekdays (Mon-Thursday),Evening (17-21),Getir,5,2,15,15 min,"Snacks (Chocolate, chips and so on)",,"15 min delivery time, fee 5€, minimum Order 10€ ",4,3,3
+19,Yes,Male,22,Yes,Region A,8,Weekdays (Mon-Thursday),Evening (17-21),Getir,5,2,25,30 min,Alcoholic beverages,4,"60 min delivery time, fee 3€, minimum Order 20€",4,3,5
+20,Yes,Female,22,Yes,Region B,5,Weekdays (Mon-Thursday),Day (12-17,Getir,5,2,5,30 min,"Snacks (Chocolate, chips and so on)",3,"30 min delivery time, fee 4€, minimum Order 15€",2,3,5
+21,Yes,Male,22,Yes,Region B,3,Weekdays (Mon-Thursday),Night (21-4),Getir,3,1,20,15 min,Alcoholic beverages,4,"30 min delivery time, fee 4€, minimum Order 15€",4,2,3
+22,Yes,Female,22,Yes,Region A,6,Weekdays (Mon-Thursday),Day (12-17,Getir,2,2,15,30 min,"Snacks (Chocolate, chips and so on)",5,"30 min delivery time, fee 4€, minimum Order 15€",3,2,3
+23,Yes,Female,22,Yes,Region A,4,Weekends ( Fri-Sunday),Evening (17-21),Amazon fresh,4,2,45,30 min,Alcoholic beverages,4,"30 min delivery time, fee 4€, minimum Order 15€",4,4,4
+24,Yes,Male,28,No,Region B,5,Weekdays (Mon-Thursday),Day (12-17,Flink,2,3,25,20 min,Alcoholic beverages,5,"30 min delivery time, fee 4€, minimum Order 15€",4,2,4
+25,No,Male,23,Yes,Region A,4,Weekdays (Mon-Thursday),Evening (17-21),Getir,3,8,5,30 min,"Snacks (Chocolate, chips and so on)",4,"15 min delivery time, fee 5€, minimum Order 10€ ",3,3,3
+26,Yes,Male,22,Yes,Region B,3,Weekdays (Mon-Thursday),Day (12-17,Getir,4,2,15,30 min,Alcoholic beverages,4,"30 min delivery time, fee 4€, minimum Order 15€",4,2,4
+27,Yes,Male,27,Yes,Region B,3,Weekdays (Mon-Thursday),Morning (5-12),Getir,5,1,20,30 min,Produce (Vegetable or fruits),1,"30 min delivery time, fee 4€, minimum Order 15€",4,2,1
+28,Yes,Male,24,No,Region A,4,Weekends ( Fri-Sunday),Evening (17-21),Getir,5,2,20,60 min,Alcoholic beverages,4,"30 min delivery time, fee 4€, minimum Order 15€",2,1,2
+29,Yes,Male,25,Yes,Region B,3,Weekdays (Mon-Thursday),Evening (17-21),Others,4,2,20,30 min,Frozen foods,4,"30 min delivery time, fee 4€, minimum Order 15€",3,3,3
+30,Yes,Male,24,Yes,Region A,2,Weekdays (Mon-Thursday),Day (12-17,Flink,3,1,20,20 min,"Snacks (Chocolate, chips and so on)",4,"30 min delivery time, fee 4€, minimum Order 15€",2,1,3
+31,Yes,Male,24,Yes,Region B,4,Weekends ( Fri-Sunday),Evening (17-21),Flink,4,2,15,30 min,Alcoholic beverages,4,"30 min delivery time, fee 4€, minimum Order 15€",2,4,5
+32,Yes,Male,29,Yes,Region B,4,Weekdays (Mon-Thursday),Day (12-17,Getir,4,5,20,30 min,Produce (Vegetable or fruits),4,"60 min delivery time, fee 3€, minimum Order 20€",3,3,2
+33,Yes,Female,25,Yes,Region B,1,Weekdays (Mon-Thursday),Evening (17-21),Others,1,0,0,10 min,others,1,"15 min delivery time, fee 5€, minimum Order 10€ ",1,1,1
+34,Yes,Female,22,Yes,Region A,20,Weekends ( Fri-Sunday),Night (21-4),Getir,4,6,5,15 min,"Snacks (Chocolate, chips and so on)",3,"30 min delivery time, fee 4€, minimum Order 15€",2,3,2
+35,Yes,Male,25,Yes,Region B,3,Weekends ( Fri-Sunday),Evening (17-21),Gorillas,4,2,25,30 min,Alcoholic beverages,4,"30 min delivery time, fee 4€, minimum Order 15€",4,5,3
+36,Yes,Female,27,Yes,Region A,7,Weekends ( Fri-Sunday),Day (12-17,Gorillas,4,3,20,20 min,"Snacks (Chocolate, chips and so on)",5,"30 min delivery time, fee 4€, minimum Order 15€",5,4,4
+37,Yes,Male,19,No,Region A,9,Weekends ( Fri-Sunday),Night (21-4),Gorillas,1,6,15,30 min,Alcoholic beverages,4,"15 min delivery time, fee 5€, minimum Order 10€ ",5,1,5
+38,Yes,Male,22,Yes,Region B,3,Weekdays (Mon-Thursday),Evening (17-21),Flink,4,1,20,30 min,"Snacks (Chocolate, chips and so on)",4,"15 min delivery time, fee 5€, minimum Order 10€ ",4,4,4
+40,Yes,Male,27,Yes,Region B,6,Weekends ( Fri-Sunday),Evening (17-21),Gorillas,4,2,20,20 min,Produce (Vegetable or fruits),4,"15 min delivery time, fee 5€, minimum Order 10€ ",4,3,5
+41,Yes,Male,24,Yes,Region A,4,Weekends ( Fri-Sunday),Evening (17-21),Gorillas,5,6,25,20 min,Alcoholic beverages,5,"30 min delivery time, fee 4€, minimum Order 15€",4,4,5
+42,Yes,Female,27,Yes,Region A,2,Weekdays (Mon-Thursday),Evening (17-21),Amazon fresh,3,3,30,30 min,"Snacks (Chocolate, chips and so on)",4,"15 min delivery time, fee 5€, minimum Order 10€ ",3,3,5
+43,No,Female,21,Yes,Region B,0,Weekends ( Fri-Sunday),Evening (17-21),Amazon fresh,4,2,15,30 min,"Snacks (Chocolate, chips and so on)",4,"30 min delivery time, fee 4€, minimum Order 15€",4,3,5
+44,No,Male,24,Yes,Region B,3,Weekdays (Mon-Thursday),Evening (17-21),Amazon fresh,5,4,45,30 min,Alcoholic beverages,5,"15 min delivery time, fee 5€, minimum Order 10€ ",5,4,5
+45,Yes,Female,23,Yes,Region A,9,Weekends ( Fri-Sunday),Evening (17-21),Getir,5,4,30,20 min,Alcoholic beverages,4,"30 min delivery time, fee 4€, minimum Order 15€",1,3,4
+46,Yes,Male,25,Yes,Region B,7,Weekends ( Fri-Sunday),Night (21-4),Getir,4,4,25,15 min,Alcoholic beverages,5,"15 min delivery time, fee 5€, minimum Order 10€ ",2,4,5
+47,Yes,Female,22,Yes,Region B,5,Weekends ( Fri-Sunday),Night (21-4),Flink,4,4,15,20 min,"Snacks (Chocolate, chips and so on)",4,"15 min delivery time, fee 5€, minimum Order 10€ ",4,3,4
+48,Yes,Male,26,Yes,Region A,2,Weekdays (Mon-Thursday),Night (21-4),Gorillas,3,1,30,30 min,Alcoholic beverages,4,"30 min delivery time, fee 4€, minimum Order 15€",4,3,5
+49,Yes,Male,19,Yes,Region A,10,Weekends ( Fri-Sunday),Night (21-4),Gorillas,4,6,15,30 min,"Snacks (Chocolate, chips and so on)",4,"30 min delivery time, fee 4€, minimum Order 15€",4,5,5
+50,Yes,Male,28,Yes,Region C,5,Weekends ( Fri-Sunday),Evening (17-21),Getir,4,4,17,30 min,Alcoholic beverages,5,"30 min delivery time, fee 4€, minimum Order 15€",5,4,4
+51,Yes,Female,24,Yes,Region A,12,Weekdays (Mon-Thursday),Evening (17-21),Amazon fresh,4,4,20,30 min,"Snacks (Chocolate, chips and so on)",4,"30 min delivery time, fee 4€, minimum Order 15€",4,5,3
+52,Yes,Female,25,Yes,Region B,3,Weekdays (Mon-Thursday),Day (12-17,Flink,4,2,10,20 min,Frozen foods,4,"15 min delivery time, fee 5€, minimum Order 10€ ",4,2,3
+54,Yes,Female,23,Yes,Region B,7,Weekends ( Fri-Sunday),Night (21-4),Gorillas,5,3,25,30 min,Alcoholic beverages,5,"30 min delivery time, fee 4€, minimum Order 15€",4,5,5
+55,Yes,Male,25,Yes,Region A,4,Weekends ( Fri-Sunday),Night (21-4),Getir,4,5,15,30 min,Alcoholic beverages,4,"15 min delivery time, fee 5€, minimum Order 10€ ",4,5,4
+56,Yes,Male,28,No,Region B,6,Weekends ( Fri-Sunday),Night (21-4),Getir,2,3,15,20 min,Meats,4,"30 min delivery time, fee 4€, minimum Order 15€",4,5,3
+57,Yes,Female,22,Yes,Region A,3,Weekdays (Mon-Thursday),Evening (17-21),Getir,4,1,15,30 min,"Snacks (Chocolate, chips and so on)",4,"30 min delivery time, fee 4€, minimum Order 15€",4,3,4
+58,Yes,Female,19,Yes,Region B,3,Weekends ( Fri-Sunday),Night (21-4),Gorillas,4,1,19,30 min,Alcoholic beverages,4,"30 min delivery time, fee 4€, minimum Order 15€",4,2,4
+59,Yes,Female,19,Yes,Region A,1,Weekends ( Fri-Sunday),Night (21-4),Gorillas,3,15,30,30 min,Alcoholic beverages,4,"30 min delivery time, fee 4€, minimum Order 15€",4,3,5
+60,Yes,Female,25,Yes,Region C,7,Weekends ( Fri-Sunday),Evening (17-21),Gorillas,4,3,30,30 min,Alcoholic beverages,4,"30 min delivery time, fee 4€, minimum Order 15€",5,3,4
+61,Yes,Male,30,No,Region B,4,Weekends ( Fri-Sunday),Evening (17-21),Getir,1,1,45,30 min,"Snacks (Chocolate, chips and so on)",4,"30 min delivery time, fee 4€, minimum Order 15€",4,3,4
+62,Yes,Male,22,Yes,Region C,3,Weekends ( Fri-Sunday),Evening (17-21),Gorillas,3,1,15,20 min,Alcoholic beverages,4,"30 min delivery time, fee 4€, minimum Order 15€",3,4,3
+63,Yes,Female,24,Yes,Region C,2,Weekends ( Fri-Sunday),Evening (17-21),Gorillas,3,1,26,30 min,"Snacks (Chocolate, chips and so on)",4,"30 min delivery time, fee 4€, minimum Order 15€",5,3,5
+64,Yes,Female,27,Yes,Region C,4,Weekends ( Fri-Sunday),Night (21-4),Amazon fresh,4,1,15,30 min,"Snacks (Chocolate, chips and so on)",4,"15 min delivery time, fee 5€, minimum Order 10€ ",3,4,3
+65,Yes,Male,26,Yes,Region B,3,Weekends ( Fri-Sunday),Evening (17-21),Amazon fresh,4,2,19,30 min,Alcoholic beverages,4,"30 min delivery time, fee 4€, minimum Order 15€",3,5,2
+66,Yes,Male,18,No,Region B,2,Weekends ( Fri-Sunday),Night (21-4),Getir,2,1,17,20 min,Frozen foods,4,"30 min delivery time, fee 4€, minimum Order 15€",3,4,2
+67,Yes,Female,17,Yes,Region C,0,Weekends ( Fri-Sunday),Day (12-17,Getir,3,0,0,20 min,Alcoholic beverages,4,"15 min delivery time, fee 5€, minimum Order 10€ ",4,3,4
+68,Yes,Male,22,Yes,Region A,5,Weekends ( Fri-Sunday),Night (21-4),Amazon fresh,4,2,15,20 min,"Snacks (Chocolate, chips and so on)",4,"30 min delivery time, fee 4€, minimum Order 15€",5,4,5
+69,Yes,Male,25,Yes,Region A,3,Weekends ( Fri-Sunday),Evening (17-21),Getir,4,1,15,20 min,"Snacks (Chocolate, chips and so on)",4,"30 min delivery time, fee 4€, minimum Order 15€",2,4,3
+70,Yes,Male,25,Yes,Region B,2,Weekdays (Mon-Thursday),Day (12-17,Gorillas,4,1,10,15 min,Alcoholic beverages,4,"15 min delivery time, fee 5€, minimum Order 10€ ",5,3,4
+71,Yes,Male,25,Yes,Region B,3,Weekends ( Fri-Sunday),Evening (17-21),Flink,4,1,16,20 min,"Snacks (Chocolate, chips and so on)",4,"15 min delivery time, fee 5€, minimum Order 10€ ",4,3,4
+72,Yes,Female,28,No,Region A,2,Weekdays (Mon-Thursday),Evening (17-21),Gorillas,2,1,10,20 min,Alcoholic beverages,2,"15 min delivery time, fee 5€, minimum Order 10€ ",3,4,4
+73,Yes,Male,19,Yes,Region C,6,Weekdays (Mon-Thursday),Day (12-17,Amazon fresh,5,3,20,30 min,"Snacks (Chocolate, chips and so on)",4,"30 min delivery time, fee 4€, minimum Order 15€",3,4,4
+74,Yes,Male,24,Yes,Region C,10,Weekends ( Fri-Sunday),Evening (17-21),Getir,5,5,25,30 min,Frozen foods,2,"60 min delivery time, fee 3€, minimum Order 20€",3,3,3
+75,Yes,Male,24,Yes,Region A,3,Weekends ( Fri-Sunday),Evening (17-21),Amazon fresh,4,2,15,15 min,"Snacks (Chocolate, chips and so on)",5,"15 min delivery time, fee 5€, minimum Order 10€ ",5,5,5
+76,Yes,Female,26,No,Region B,7,Weekends ( Fri-Sunday),Evening (17-21),Flink,1,5,20,15 min,Frozen foods,5,"60 min delivery time, fee 3€, minimum Order 20€",4,4,4
+77,Yes,Female,22,Yes,Region C,3,Weekdays (Mon-Thursday),Day (12-17,Gorillas,4,2,10,20 min,"Snacks (Chocolate, chips and so on)",4,"15 min delivery time, fee 5€, minimum Order 10€ ",4,3,3
+78,Yes,Male,24,Yes,Region B,5,Weekends ( Fri-Sunday),Evening (17-21),Getir,4,4,20,15 min,"Snacks (Chocolate, chips and so on)",5,"30 min delivery time, fee 4€, minimum Order 15€",5,5,5
+79,Yes,Male,25,Yes,Region A,4,Weekdays (Mon-Thursday),Evening (17-21),Flink,5,4,10,30 min,others,4,"30 min delivery time, fee 4€, minimum Order 15€",4,4,3
+80,Yes,Female,19,Yes,Region B,6,Weekends ( Fri-Sunday),Evening (17-21),Amazon fresh,5,4,25,20 min,Alcoholic beverages,4,"30 min delivery time, fee 4€, minimum Order 15€",4,4,4
+81,Yes,Male,20,Yes,Region B,1,Weekends ( Fri-Sunday),Night (21-4),Gorillas,5,4,20,20 min,"Snacks (Chocolate, chips and so on)",4,"30 min delivery time, fee 4€, minimum Order 15€",3,5,5
+82,Yes,Female,23,Yes,Region C,3,Weekdays (Mon-Thursday),Night (21-4),Others,5,2,25,15 min,Alcoholic beverages,4,"15 min delivery time, fee 5€, minimum Order 10€ ",5,5,5
+83,Yes,Male,29,No,Region B,5,Weekends ( Fri-Sunday),Evening (17-21),Gorillas,4,2,20,20 min,Dairy,3,"15 min delivery time, fee 5€, minimum Order 10€ ",3,3,3
+84,Yes,Female,22,Yes,Region B,7,Weekends ( Fri-Sunday),Evening (17-21),Amazon fresh,4,5,20,20 min,Alcoholic beverages,4,"30 min delivery time, fee 4€, minimum Order 15€",4,3,4
+85,Yes,Female,19,Yes,Region C,2,Weekdays (Mon-Thursday),Night (21-4),Flink,5,4,30,60 min,"Snacks (Chocolate, chips and so on)",3,"15 min delivery time, fee 5€, minimum Order 10€ ",4,3,3
+86,No,Female,22,No,Region A,2,Weekdays (Mon-Thursday),Evening (17-21),Getir,5,5,2,10 min,"Snacks (Chocolate, chips and so on)",5,"60 min delivery time, fee 3€, minimum Order 20€",1,3,3
+87,Yes,Female,20,Yes,Region A,3,Weekends ( Fri-Sunday),Night (21-4),Gorillas,3,6,20,30 min,"Snacks (Chocolate, chips and so on)",5,"30 min delivery time, fee 4€, minimum Order 15€",4,4,4
+88,Yes,Female,22,Yes,Region B,4,Weekdays (Mon-Thursday),Morning (5-12),Getir,3,3,20,30 min,Alcoholic beverages,4,"15 min delivery time, fee 5€, minimum Order 10€ ",4,4,4
+89,Yes,Female,25,No,Region A,10,Weekends ( Fri-Sunday),Morning (5-12),Others,3,4,30,30 min,Alcoholic beverages,3,"30 min delivery time, fee 4€, minimum Order 15€",3,4,4
+90,Yes,Male,18,Yes,Region A,3,Weekends ( Fri-Sunday),Night (21-4),Others,5,5,10,20 min,Alcoholic beverages,4,"15 min delivery time, fee 5€, minimum Order 10€ ",4,3,4
+91,Yes,Female,23,Yes,Region A,2,Weekends ( Fri-Sunday),Evening (17-21),Getir,2,2,20,20 min,"Snacks (Chocolate, chips and so on)",3,"60 min delivery time, fee 3€, minimum Order 20€",2,2,4
+92,Yes,Female,20,Yes,Region A,7,Weekends ( Fri-Sunday),Night (21-4),Getir,5,3,20,10 min,"Snacks (Chocolate, chips and so on)",5,"15 min delivery time, fee 5€, minimum Order 10€ ",2,4,5
+93,Yes,Female,24,Yes,Region B,1,Weekends ( Fri-Sunday),Night (21-4),Getir,3,4,25,20 min,Alcoholic beverages,3,"15 min delivery time, fee 5€, minimum Order 10€ ",2,4,3
+94,Yes,Female,21,Yes,Region A,5,Weekends ( Fri-Sunday),Night (21-4),Getir,5,5,30,15 min,Alcoholic beverages,5,"15 min delivery time, fee 5€, minimum Order 10€ ",3,5,5
+95,Yes,Male,25,Yes,Region A,5,Weekends ( Fri-Sunday),Night (21-4),Getir,3,2,25,20 min,Alcoholic beverages,4,"15 min delivery time, fee 5€, minimum Order 10€ ",3,5,4
+96,Yes,Female,23,Yes,Region A,8,Weekends ( Fri-Sunday),Day (12-17,Getir,3,2,20,20 min,"Snacks (Chocolate, chips and so on)",3,"15 min delivery time, fee 5€, minimum Order 10€ ",3,2,3
+97,Yes,Male,19,Yes,Region A,4,Weekends ( Fri-Sunday),Evening (17-21),Getir,3,3,15,15 min,"Snacks (Chocolate, chips and so on)",4,"15 min delivery time, fee 5€, minimum Order 10€ ",1,2,2
+98,Yes,Male,21,Yes,Region B,3,Weekends ( Fri-Sunday),Evening (17-21),Getir,4,5,15,30 min,Alcoholic beverages,5,"30 min delivery time, fee 4€, minimum Order 15€",3,2,5
+99,Yes,Male,20,Yes,Region A,5,Weekdays (Mon-Thursday),Evening (17-21),Getir,5,2,16,30 min,Alcoholic beverages,4,"30 min delivery time, fee 4€, minimum Order 15€",3,4,2
+100,Yes,Male,22,Yes,Region B,5,Weekends ( Fri-Sunday),Evening (17-21),Getir,4,10,20,30 min,Meats,4,"30 min delivery time, fee 4€, minimum Order 15€",4,5,
+101,Yes,Male,22,Yes,Region A,9,Weekends ( Fri-Sunday),Day (12-17,Getir,4,3,15,30 min,others,5,"15 min delivery time, fee 5€, minimum Order 10€ ",4,3,3
+102,Yes,Male,26,No,Region A,3,Weekends ( Fri-Sunday),Evening (17-21),Getir,4,2,1,30 min,"Snacks (Chocolate, chips and so on)",4,"60 min delivery time, fee 3€, minimum Order 20€",4,3,4
+103,Yes,Female,20,Yes,Region A,4,Weekends ( Fri-Sunday),Day (12-17,Others,5,2,50,30 min,"Snacks (Chocolate, chips and so on)",4,"30 min delivery time, fee 4€, minimum Order 15€",2,3,5
+104,Yes,Female,20,Yes,Region A,4,Weekdays (Mon-Thursday),Day (12-17,Getir,5,2,30,20 min,"Snacks (Chocolate, chips and so on)",5,"30 min delivery time, fee 4€, minimum Order 15€",3,1,5
+105,Yes,Female,26,Yes,Region A,4,Weekends ( Fri-Sunday),Night (21-4),Getir,5,2,30,20 min,Alcoholic beverages,5,"15 min delivery time, fee 5€, minimum Order 10€ ",2,5,5
+106,Yes,Male,20,Yes,Region B,3,Weekdays (Mon-Thursday),Evening (17-21),Amazon fresh,4,2,15,30 min,Alcoholic beverages,4,"60 min delivery time, fee 3€, minimum Order 20€",4,3,3
+107,Yes,Female,20,Yes,Region B,1,Weekends ( Fri-Sunday),Evening (17-21),Amazon fresh,5,0,15,60 min,"Snacks (Chocolate, chips and so on)",3,"30 min delivery time, fee 4€, minimum Order 15€",1,1,4
