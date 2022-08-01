@@ -1,0 +1,102 @@
+---
+title: "Political economy"
+author: "Jakob Slott Kristiansen"
+date: "6/26/2022"
+output: word_document
+---
+
+```{r}
+library(tidyverse)# metapackage with lots of helpful functions (ggplot, dplyr, readr)
+library(readr)
+library(dplyr)
+```
+
+```{r}
+data <- read_csv("https://raw.githubusercontent.com/JakobTheSlott/HWR/main/PE%20(1).csv")
+
+```
+```{r}
+head(data)
+```
+
+
+```{r}
+mean(data$`What is your age?`)
+mean(data$`Cash from support`)
+```
+
+
+```{r}
+data$`How did your financial situation impact your choice of studies?`<-ifelse(data$`How did your financial situation impact your choice of studies?`=="Yes",1,0)
+
+
+#Correlation between grades and choice of studies
+cor.test(data$`What is your current average grade?`,data$`How did your financial situation impact your choice of studies?`)
+```
+
+```{r}
+#T test for indapendent varibles: 
+
+t.test(data$`How did your financial situation impact your choice of studies?`, data$`What is your current average grade?`,alt="two.sided",conf=0.95,var.eq=F,paired=F)
+```
+
+
+
+```{r}
+cor.test(data$`Cash from support`,data$`What is your current average grade?`)
+```
+
+
+
+```{r}
+#correlation between money and choice of studies
+cor.test(data$`Cash from support`,data$`How did your financial situation impact your choice of studies?`)
+```
+
+```{r}
+#coreelation happy and money
+
+cor.test(data$`I am happy.`,data$`Cash from support`,
+         method = "spearman")
+```
+```{r}
+#correlation 
+
+cor.test(data$`What is your current average grade?`, data$`I am happy.`)
+```
+
+```{r}
+cor.test(data$`I am happy.`,data$`How did your financial situation impact your choice of studies?`)
+```
+
+
+```{r}
+cor.test(data$`I am happy.`,data$`I often feel stressed.`)
+```
+
+
+
+
+
+```{r}
+res.aov <- aov(data$`What is your current average grade?` ~ data$`Where is your home university located?`)
+summary(res.aov)
+```
+
+```{r}
+res.aov2 <- aov(data$`Cash from support` ~ data$`Where is your home university located?`)
+summary(res.aov2)
+```
+
+
+```{r}
+0.0415
+```
+
+
+
+
+
+
+
+
