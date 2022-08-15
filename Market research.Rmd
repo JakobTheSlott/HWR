@@ -1,0 +1,89 @@
+---
+title: "Test for political class"
+author: "Jakob Slott Kristiansen"
+date: "6/16/2022"
+output: word_document
+---
+
+```{r}
+library(tidyverse)# metapackage with lots of helpful functions (ggplot, dplyr, readr)
+library(readr)
+library(dplyr)
+```
+
+
+```{r}
+
+data <- read_csv("https://raw.githubusercontent.com/JakobTheSlott/MarketResearch/main/MarketResearch.csv")
+
+```
+
+
+```{r}
+head(data)
+
+```
+
+
+
+```{r}
+
+typeof(data$`How old are you?`)
+
+mean(data$`How old are you?`)
+
+
+```
+
+
+```{r}
+#Pearson correlation Excisting base
+cor.test(data$`How often do you order grocery deliveries a month?`, data$`How often would you use late night deliveries in a month?`,method = "spearman")
+```
+
+```{r}
+data$`Are you currently enrolled as a student in an educational institute? `<-ifelse(data$`Are you currently enrolled as a student in an educational institute? `=="Yes",1,0)
+
+cor.test(data$`Rate the following statement from 1 (not applicable) to 5 (very true): I would prefer to have groceries delivered, as opposed to going out at night`,data$`Are you currently enrolled as a student in an educational institute? `,
+         method = "spearman")
+```
+
+
+
+
+```{r}
+cor.test(data$`How often do you order grocery deliveries a month?`, data$`As an estimate how much would you spend on a late night delivery for a single order?`)
+```
+```{r}
+#t test
+
+t.test(data$`How wiling are you to order late night deliveries`~ data$`Are you currently enrolled as a student in an educational institute? `,MU=0,alt="two.sided",conf=0.95,var.eq=F,paired=F)
+```
+
+```{r}
+#t test
+
+t.test(data$`How willing are you to order late night deliveries`~ data$`What gender do you identify as?
+`,MU=0,alt="two.sided",conf=0.95,var.eq=F,paired=F)
+```
+
+```{r}
+#t test
+t.test(data$`How often do you order grocery deliveries a month?`~ data$`What gender do you identify as?
+`,MU=0,alt="two.sided",conf=0.95,var.eq=F,paired=F)
+
+```
+
+```{r}
+#t test
+
+t.test(data$`Rate the following statement from 1 (not applicable) to 5 (very true): I would prefer to have groceries delivered, as opposed to going out at night`~ data$`What days do you usually get deliveries?`,MU=0,alt="two.sided",conf=0.95,var.eq=F,paired=F)
+```
+
+
+```{r}
+res.aov <- aov(data$`How willing are you to order late night deliveries` ~ data$`Which area of Berlin do you live in?`)
+summary(res.aov)
+```
+
+
